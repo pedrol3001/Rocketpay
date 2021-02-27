@@ -1,7 +1,7 @@
 # Simple payment API
 Code from rocketseat next level week 4
 
-Project tha simulates a bank account simple api in elixir using framework phoenix
+Project tha simulates a bank account simple api using elixir phoenix framework
 
 Hot to use:
 ```
