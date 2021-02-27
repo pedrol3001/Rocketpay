@@ -1,5 +1,5 @@
 # Simple payment API
-Code from rocketseat next level weak 4
+Code from rocketseat next level week 4
 
 Project tha simulates a bank account simple api in elixir using framework phoenix
 
